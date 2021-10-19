@@ -17,7 +17,7 @@ En este ejemplo ilustra una pequeña API que sirva la carta de un restaurante.
     <tr>
         <td>
             2.- Crear el script de Google App Scripts desde el menú de 'Extensiones'.
-        <td>
+        </td>
     </tr>
     <tr>
         <td style="text-align:center;">
